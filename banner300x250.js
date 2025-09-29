@@ -1,5 +1,5 @@
 (function(){
-  var img = "https://banner-ads-n5q3.vercel.app/banner_300x250.gif";
+  var img = "https://static.wixstatic.com/media/7410a8_e132fbe1ab584149a76ac24d2b48d4ac~mv2.gif";
   var click = "https://playfast.games";
 
   var el = document.currentScript;
